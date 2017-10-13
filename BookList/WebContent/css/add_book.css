@@ -1,0 +1,23 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.authorListTable{
+	margin: auto;
+	width: 600px;
+	font-size: 20px;
+	color: black;
+}
+.authorListTable tr td{
+	padding: 5px;
+}
+.authorListTable tr td input{
+	width: 60%;
+	font-size: 20px;
+	color: black;
+}
+.authorListTable tr td select{
+	width: 60%;
+	font-size: 20px;
+	color: black;
+}

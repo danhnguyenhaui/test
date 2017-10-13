@@ -1,0 +1,24 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.bookInforTable{
+	border-collapse: collapse;
+	width: 600px;
+	float: left;
+}
+.bookInforTable tr td{
+	border: 1px solid black;
+	padding: 5px;
+	color: black;
+	text-align: center;
+}
+.bookInforTable tr:nth-child(even){
+	background-color: #e0e0e0;
+}
+.titleTable{
+	text-align: center;
+	background: #888aaa;
+	font-weight: bold;
+	font-size: 25px;
+}
